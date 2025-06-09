@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 09 Jul 2025 12:44:00 +0100
+Source: mxfb-style-editor
+Binary: mxfb-style-editor
+Architecture: source all
+Version: 25.06.01
+Distribution: mx
+Urgency: medium
+Maintainer: Melber <melber.mx.linux@gmail.com>
+Changed-By: Melber <melber-mx-linux@gmail.com>
+Description:
+ mxfb-style-editor - Edit the colors of MX-Fluxbox styles
+Changes:
+ mxfb-style-editor (25.06.01) mx; urgency=medium
+ .
+   * Test version.
+Checksums-Sha1:
+ 2f5be56f83768b388c2cf99c904e661656db9b51 616 mxfb-style-editor_25.06.01.dsc
+ 9597f50e8794d15ccd27d6f82c501c3b772c655e 137904 mxfb-style-editor_25.06.01.tar.xz
+ fe9d91109af02aa7cbd96573dfb807e61fe1fd4c 142040 mxfb-style-editor_25.06.01_all.deb
+ 7f55f6fb802a9b476ad0c1e5866df86863006115 5638 mxfb-style-editor_25.06.01_amd64.buildinfo
+Checksums-Sha256:
+ beca6c039013ba0b307cf1252a9d6f486f9cae2d00e91b70e1b718de330b7890 616 mxfb-style-editor_25.06.01.dsc
+ f5773190e3cb40756cd5d097e4b0078d26c2df3cbe5482294210face7baaf7b0 137904 mxfb-style-editor_25.06.01.tar.xz
+ 7b5e7a632426be7859aeebd65828c7af5e255146ed0f7d5dfd4cf6f938a5ba91 142040 mxfb-style-editor_25.06.01_all.deb
+ 1403119534ac2b2a431bca03288576b4690fe31a7395d5efdbadf0266ab3d2bc 5638 mxfb-style-editor_25.06.01_amd64.buildinfo
+Files:
+ 55d38c3ccebaffa10d972299ec0d53dc 616 x11 optional mxfb-style-editor_25.06.01.dsc
+ 757c34688a0db51af9747d47bb62c7c7 137904 x11 optional mxfb-style-editor_25.06.01.tar.xz
+ 03194bd07a932aadbbfbff2c94313fb5 142040 x11 optional mxfb-style-editor_25.06.01_all.deb
+ f4656eba27a966a1b0aa124cd4b3bb44 5638 x11 optional mxfb-style-editor_25.06.01_amd64.buildinfo

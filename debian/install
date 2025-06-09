@@ -1,0 +1,7 @@
+mxfb-style-editor usr/bin
+templates/* usr/share/mxfb-style-editor/templates
+help/* usr/share/mxfb-style-editor/help
+*.desktop usr/share/applications
+*.png usr/share/pixmaps
+
+
